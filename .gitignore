@@ -24,3 +24,6 @@ book_metaprogramming_elixir-*.tar
 
 # IDE Files
 .idea/
+
+# Ignore notes
+NOTES.md
