@@ -18,4 +18,4 @@ end
 defmodule MyModule do
   require Mod
   Mod.definfo()
-end
+endgit add
